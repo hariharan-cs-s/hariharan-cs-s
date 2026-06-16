@@ -30,7 +30,6 @@ class Hariharan:
     @property
     def interests(self):
         return [
-            "🤖 Artificial Intelligence & Machine Learning",
             "🧠 Deep Learning & Computer Vision",
             "📊 Data Science & Analytics",
             "🌐 Full Stack Web Development",
@@ -87,16 +86,7 @@ print(me)
 
 </div>
 
-### 🤖 AI / ML / Data Science
-<div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
 
 ### ☁️ Cloud & DevOps & Tools
 <div align="center">
@@ -112,19 +102,7 @@ print(me)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🔧 Tech Stack | ⭐ |
-|:---|:---|:---|:---:|
-| 🤖 **AI Vision Assistant** | Real-time object detection & scene understanding using deep learning | Python · OpenCV · TensorFlow · React | ⭐⭐⭐ |
-| 🌐 **Full Stack Dashboard** | Responsive admin dashboard with REST API backend and JWT auth | Node.js · React · MongoDB · CSS3 | ⭐⭐⭐ |
-| 📊 **ML Pipeline** | End-to-end machine learning pipeline with model tracking and deployment | Python · scikit-learn · Django · AWS | ⭐⭐⭐ |
-| 💬 **Smart Chat App** | Real-time chat application with AI-powered response suggestions | React · Node.js · Socket.io · MongoDB | ⭐⭐ |
-| ☁️ **Cloud DevOps Lab** | Automated AWS infra setup with CI/CD pipeline and monitoring | AWS · Linux · Docker · GitHub Actions | ⭐⭐ |
-
-</div>
 
 > 💡 *More projects on my [GitHub Repositories](https://github.com/hariharan-cs-s?tab=repositories)*
 
